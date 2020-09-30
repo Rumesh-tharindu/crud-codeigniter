@@ -6,7 +6,7 @@
 
 ![first screen](application/views/images/screenshot1.png)
 #### Add user
-![add user](application/views/images/add.png)
+![add user](application/views/images/Add.png)
 #### edit user
 ![edit user](application/views/images/edit.png)
 #### delete user
